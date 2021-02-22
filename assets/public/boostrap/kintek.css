@@ -1,0 +1,197 @@
+.nav-daftarpemyedia{
+   background-image: linear-gradient(to top,rgba(248, 33, 62, 0.938),rgba(211, 81, 6, 0.685));
+   color: white;
+}
+.nav-daftarpemyedia a{
+   background-image: linear-gradient(to top,rgba(248, 33, 62, 0.938),rgba(211, 81, 6, 0.685));
+  text-decoration: none;
+  color: white !important;
+}
+.jarak{
+   margin-top: 0;
+   display: flex;
+   justify-content: space-between;
+   background-color: #dddddd;
+   font-size: 10px;
+   height: 40px;
+   align-items: center;
+   
+}
+.anotif1{
+   display: flex;
+   margin-right: 10px;
+   border: 5px;
+   border-color: black;
+}
+.anotif2{
+   position: relative;
+   margin-right: 10px;
+   border: 5px;
+   border-color: black;
+   z-index: 9999;
+}
+.anotif1 a{
+  text-decoration: none;
+}
+.jarak2{
+   display: flex;
+   justify-content: space-between;
+   margin-left: 10px;
+   background-color: #dddddd;
+   font-size: 10px;
+   height: 20px;
+   align-items: center;
+}
+.notif-info{
+   color: white;
+   border-radius: 10px;
+   position: relative;
+}
+.dropdown-toggle{
+   background-image: linear-gradient(to top,rgba(33, 126, 248, 0.938),rgba(6, 170, 211, 0.685)) !important;
+   color: white !important;
+}
+.card-kintek-primary{
+   margin-top:-10px;
+   margin-bottom:20px;
+   width: 100%;
+   background-image: linear-gradient(to top,rgb(35, 32, 223),rgba(11, 76, 255, 0.63)) !important;
+   padding-left: 10px;
+   border-radius: 10px;
+
+}
+.card-kintek-primary h5{
+ color: white;
+}
+section.card-besar{
+   background-color:white;
+   box-shadow: 1px 4px 10px 2px  black;
+   padding: 50px;
+}
+li a{
+   color: #15159b;
+}
+ul li.active a{
+   background-color: default;
+   background: default !important;
+   color: black !important;
+   text-decoration: none;
+}
+.navbar-custom{
+   background-image: linear-gradient(to top,rgb(236, 134, 0),rgba(250, 226, 9, 0.938)) !important;
+   border-top-width: 5px;
+   border-top: -10px;
+   margin:0;
+}
+
+/* responsive mobile css */
+.navbar-toggle{
+  height: 40px;
+   justify-content: center;
+   color: black;
+   background-image: linear-gradient(to top,rgb(11, 113, 131),rgb(255, 251, 11)) !important;
+   border-color: black;
+   border: 1;
+   border-style: double;
+   position: relative !important;
+   z-index: 999 !important;
+}
+
+/* ppk dashboard css */
+/* btn btn group */
+/* content ppk*/
+.btn-group{
+   display: flex !important;
+   flex-wrap: wrap !important;
+   font-weight: 1;
+}
+.btn-kintek-success{
+   padding-top: 5px;
+    background-image: linear-gradient(to top,rgb(32, 136, 79),rgb(92, 206, 143)) !important;
+   border: none;
+   width: 100px;
+   height: 40px;
+   border-radius: 10px;
+   align-items: center;
+   color: white;
+   font-weight: bold;
+}
+.btn-kintek-success a{
+  text-decoration: none;
+  color: white;
+}
+
+
+  .faq-cat-tabs li a {
+         background-color: #ffffffc2 !important;
+         border: 1px solid #dddddd !important;
+      }
+      table {
+         border-collapse: collapse ;
+         width: 100% ;
+       }
+       
+       th, td {
+         text-align: left ;
+         padding: 8px ;
+       }
+       
+       tr:nth-child(even) {background-color: #f2f2f2 ;
+      }
+
+
+      .bs-callout-warning {
+         background-image: linear-gradient(to top,rgb(247, 222, 235),rgb(255, 251, 11)) !important;
+         border-color: #dabc38;
+     }
+     .bs-callout {
+      margin: 10px 0;
+      padding: 10px 20px 10px 10px;
+      border-left: 5px solid rgb(153, 58, 21);
+  }
+
+/* footer */
+  .list-inline {
+   padding-left: 0;
+   list-style: none;
+   margin-left: -3px;
+}
+.list-inline a{
+color: white;
+}
+ul, ol {
+   margin-top: 0;
+   margin-bottom: 10px;
+}
+* {
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+ul {
+   display: block;
+   list-style-type: disc;
+   margin-block-start: 1em;
+   margin-block-end: 1em;
+   margin-inline-start: 0px;
+   margin-inline-end: 0px;
+   padding-inline-start: 30px;
+}
+  #footer {
+   background: #080822;
+   border-top: 5px solid gold;
+   color: white;
+   margin-top: 30px;
+   padding: 4px 0;
+   flex-wrap: wrap;
+}
+#footerInfo {
+   border-top: 1px solid white;
+   font-size: 14px;
+   overflow: hidden;
+   padding: 2px 0;
+}
+#infoRight {
+   float: right;
+   text-align: right;
+}
