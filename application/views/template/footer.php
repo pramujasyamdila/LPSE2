@@ -18,9 +18,9 @@
 </div>
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
 <!-- <script type="text/javascript" src="/eproc4/public/javascripts/jquery-1.12.4.min.js"></script> -->
-<script type="text/javascript" src="<?= base_url('/assets/') ?>public/boostrap/js/jquery.min.js"></script>
-<script type="text/javascript" src="<?= base_url('/assets/') ?>public/boostrap/js/bootstrap.js"></script>
-<script type="text/javascript" src="<?= base_url('/assets/') ?>public/boostrap/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="<?= base_url('assets/') ?>public/boostrap/js/jquery.min.js"></script>
+<script type="text/javascript" src="<?= base_url('assets/') ?>public/boostrap/js/bootstrap.js"></script>
+<script type="text/javascript" src="<?= base_url('assets/') ?>public/boostrap/js/jquery.dataTables.min.js"></script>
 
 <!-- custom js -->
 <!-- dattable -->
